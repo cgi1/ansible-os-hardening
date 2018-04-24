@@ -1,3 +1,8 @@
+# Changed details to original code
+
+ * Do not uninstall `Apache` web server
+ * Configure iptables to allow `.80` `.443` incomming
+
 # os-hardening (Ansible Role)
 
 [![Build Status](http://img.shields.io/travis/dev-sec/ansible-os-hardening.svg)][1]
